@@ -1,0 +1,11 @@
+pygame==2.1.0
+neat-python==0.92
+mkl-random==1.1.1
+backports.weakref==1.0.post1
+contextlib2==0.6.0.post1
+fenics-ffc==2019.1.0.post0
+nose @ file:///tmp/build/80754af9/nose_1606773131901/work
+oauth2==1.9.0.post1
+pycosat==0.6.3
+cloudpickle @ file:///tmp/build/80754af9/cloudpickle_1598884132938/work
+pickleshare @ file:///tmp/build/80754af9/pickleshare_1606932040724/work
